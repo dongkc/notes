@@ -1,0 +1,2 @@
+* some useful stuff for me
+  http://doc.norang.ca/org-mode.html
