@@ -1,2 +1,7 @@
 * some useful stuff for me
   Orgnize Your Life In Plain Text http://doc.norang.ca/org-mode.html
+* 2017年3月20日
+** ocx控件运行的当前目录不是控件所在的目录，Path::current()不同于ocx控件所在的目录
+** windows程序unicode与多字节,ansi之间的区别: CString CStringA string三种类型之间的转换
+** curl.exe运行时返回-2，查手册说明初始化失败，但是在windows命令行下面能够正常访问ftp服务器，怀疑与上述类型转换有关
+** 学习org mode，从简明的手册开始学起，逐条命令实践
