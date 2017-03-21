@@ -18,10 +18,11 @@ The Org homepage[fn:1] now looks a lot better than it used to.
 
 [fn:1] The link is: http://orgmode.org 
 
-| Name        | Phone |   Age |
-|-------------+-------+-------|
-| dongkechang |       |    38 |
-|-------------+-------+-------|
-| RRRRR       |       |   222 |
-| doudou      |       | ddddd |
-|             |       |       |
+| Name        |       Phone |   Age |
+|-------------+-------------+-------|
+| dongkechang |             |    38 |
+|-------------+-------------+-------|
+| RRRRR       |             |   222 |
+| doudou      |             | ddddd |
+| wanli       | 13433343434 |  test |
+|             |             |       |

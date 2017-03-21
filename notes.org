@@ -5,3 +5,6 @@
 ** windows程序unicode与多字节,ansi之间的区别: CString CStringA string三种类型之间的转换
 ** curl.exe运行时返回-2，查手册说明初始化失败，但是在windows命令行下面能够正常访问ftp服务器，怀疑与上述类型转换有关
 ** 学习org mode，从简明的手册开始学起，逐条命令实践
+* 2017年3月21
+  - 调试ftps下载接口，webservice https接口
+  - 完善一体机算法接口程序，方便其他人员硬件测试使用
