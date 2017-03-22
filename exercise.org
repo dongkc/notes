@@ -18,6 +18,7 @@ The Org homepage[fn:1] now looks a lot better than it used to.
 
 [fn:1] The link is: http://orgmode.org 
 
+* 一些练习
 | Name        |       Phone |   Age |
 |-------------+-------------+-------|
 | dongkechang |             |    38 |
@@ -26,3 +27,46 @@ The Org homepage[fn:1] now looks a lot better than it used to.
 | doudou      |             | ddddd |
 | wanli       | 13433343434 |  test |
 |             |             |       |
+** STARTED 读书机器人demo研发
+** TODO 查出为什么S-M-RET插入一个todo 不起作用的原因，初步怀疑与awesome wm键有冲突
+
+* Organize Party [33%]
+
+** TODO Call people [2/3]
+
+*** TODO Peter
+
+*** DONE Peter dong
+    CLOSED: [2017-03-21 Tue 14:48]
+    - State "DONE"       from "TODO"       [2017-03-21 Tue 14:48]
+
+*** DONE Sarah
+    CLOSED: [2017-03-21 Tue 13:53]
+    - State "DONE"       from ""           [2017-03-21 Tue 13:53]
+
+** TODO Buy food
+
+** DONE Talk to neighbor
+   CLOSED: [2017-03-21 Tue 13:54]
+   - State "DONE"       from "STARTED"    [2017-03-21 Tue 13:54]
+
+* TODO Organize Party [2/2]                                                     :work:test:
+** test for tags                                                                :report:
+   :PROPERTIES:
+   :EXPORT_AUTHOR: dongkechang
+   :COLUMNS:  222
+   :END:
+  - [X] call people [2/2]
+    - [X] Peter
+    - [X] Sarah
+  - [X] order food
+
+* TODO test timestamp<2017-03-21 Tue>--<2017-05-26 Fri>
+
+# * STARTED studying orgmode
+* STARTED studying orgmode
+  :LOGBOOK:  
+  CLOCK: [2017-03-21 Tue 15:43]--[2017-03-21 Tue 15:44] =>  0:01
+  CLOCK: [2017-03-21 Tue 15:41]--[2017-03-21 Tue 15:42] =>  0:01
+  :END:      
+
