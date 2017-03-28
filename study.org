@@ -12,3 +12,9 @@
 ** wwwwwwwwwwwwwwwwwwwwwwwwwwww
 
 * wwwwwwwwwwwwwwwwwwww
+
+* 学习evil插件文档
+
+** Settings
+
+** evil-set-initial-state
