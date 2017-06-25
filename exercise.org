@@ -69,3 +69,9 @@ The Org homepage[fn:1] now looks a lot better than it used to.
   CLOCK: [2017-03-21 Tue 15:43]--[2017-03-21 Tue 15:44] =>  0:01
   CLOCK: [2017-03-21 Tue 15:41]--[2017-03-21 Tue 15:42] =>  0:01
   :END:      
+* TODO test for exercise
+* TODO dongkechang
+:LOGBOOK:  
+- State "TODO"       from "WAITING"    [2017-04-08 Sat 00:23]
+:END:      
+[2017-04-08 Sat 00:22]
