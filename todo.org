@@ -1,3 +1,5 @@
+#+FILETAGS PERSONAL
+
 * Speical Days
 :PROPERTIES:
 :CATEGORY: Special Day
